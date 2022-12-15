@@ -5,8 +5,9 @@ This project is a simple orbwalker that uses pixel-based movement, allowing it t
 # Installation
 To use this orbwalker, you will need to have .NET Framework installed on your computer. Once .NET Framework is installed, you can download the orbwalker by cloning this repository:
 
-Copy code
-git clone https://github.com/username/pixel-based-orbwalker.git <br/>
+```
+git clone https://github.com/username/pixel-based-orbwalker.git
+```
 once you clone the repository, you will need to update all the offsets for the current patch of LoL <br/>
 you will also need to update the base attack speed of the current champion you are using in Orbwalker.cs
 
