@@ -18,9 +18,9 @@ The orbwalker will start moving towards your mouse, and attacking anything in it
 If there are multiple targets (ie. champion and minion) it will prioritize the enemy champion
 
 # Configuration
-You can customize the orbwalker's behavior by modifying the following variables in the config.cs file:
-CHAMPION: A variable representing the current champion base attack speed and wind up.
-PIXEL_SEARCH_RADIUS: The number of pixels around the orbwalker to search for obstacles.
+You can customize the orbwalker's behavior by modifying the following variables in the config.cs file: <br/>
+CHAMPION: A variable representing the current champion base attack speed and wind up. <br/>
+PIXEL_SEARCH_RADIUS: The number of pixels around the orbwalker to search for obstacles. <br/>
 MOVEMENT_SPEED: The number of pixels the orbwalker will move per step.
 
 # Contributing
