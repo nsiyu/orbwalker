@@ -14,9 +14,7 @@ you will also need to update the base attack speed of the current champion you a
 # Usage
 To use the orbwalker, simply run Main.cs:
 
-Copy code
-orbwalker.exe
-The orbwalker will start moving towards your mouse, and attacking anything in its way. <br/>
+The orbwalker will start moving towards your mouse, and attacking anything in its way while you are holding spacebar. <br/>
 If there are multiple targets (ie. champion and minion) it will prioritize the enemy champion
 
 # Configuration
