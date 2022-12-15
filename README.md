@@ -1,6 +1,6 @@
 # LoL Pixel Based Orbwalker
 
-This project is a simple orbwalker that uses pixel-based movement, allowing it to navigate your champion and auto attack enemies with precise calculations to maximize DPS.
+This project is a simple orbwalker that uses pixel-based movement, allowing it to navigate your champion and auto attack enemies with precise calculations that maximizes your DPS.
 
 # Installation
 To use this orbwalker, you will need to have .NET Framework installed on your computer. Once .NET Framework is installed, you can download the orbwalker by cloning this repository:
